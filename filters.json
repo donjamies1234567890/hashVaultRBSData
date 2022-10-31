@@ -5,31 +5,5 @@
         "featured",
         "quest",
         "pvp",
-        "hangout",
-        "game",
-        "art",
-        "store",
-        "tutorial",
-        "fandom",
-        "performance",
-        "action",
-        "horror"
-    ],
-    "PopularFilters": [
-        "pvp",
-        "quest",
-        "game",
-        "hangout",
-        "art"
-    ],
-    "TrendingFilters": [
-        "gamejam-rts",
-        "summercamp",
-        "octrrmonthly",
-        "roleplay",
-        "rp",
-        "seprrmonthly",
-        "fun",
-        "military"
     ]
 }
